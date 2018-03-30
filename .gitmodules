@@ -1,0 +1,6 @@
+[submodule "packages/reports"]
+	path = packages/reports
+	url = https://github.com/dosandk/reports.git
+[submodule "packages/vidio-on-background"]
+	path = packages/vidio-on-background
+	url = https://github.com/dosandk/vidio-on-background.git
