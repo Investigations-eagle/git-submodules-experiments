@@ -1,3 +1,16 @@
+# Lerna
+
+## Run `npm install` for all sub-projects
+
+* `lerna bootstrap`
+
+## Build application
+
+* `lerna run --scope [sub-project-name] [command-name]`  
+Example: `lerna run --scope reports build`
+
+# Git Submodules
+
 ## Add git Submodule
 
 * `git submodule add [path to git repo]`
