@@ -4,3 +4,6 @@
 [submodule "packages/insights"]
 	path = packages/insights
 	url = https://github.com/Investigations-eagle/insights.git
+[submodule "packages/core-app"]
+	path = packages/core-app
+	url = https://github.com/Investigations-eagle/core-app.git

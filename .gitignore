@@ -1,3 +1,4 @@
 .idea
 lerna.iml
 lerna-debug.log
+node_modules
