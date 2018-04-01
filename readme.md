@@ -1,12 +1,12 @@
 # Lerna
 
-## Run `npm install` for all sub-projects
+## To run `npm install` for all sub-projects use:
 
 * `lerna bootstrap`
 
 ## Add package
 
-* `lerna add <package>[@version] [--dev]`
+* `lerna add <package>[@version] [--dev]`  
 Example: `lerna add module-1 --scope=module-2 # Install module-1 to module-2`
 
 ## Build application
