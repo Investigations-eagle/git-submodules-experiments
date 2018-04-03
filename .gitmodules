@@ -1,6 +1,6 @@
 [submodule "packages/reports"]
 	path = packages/reports
-	url = https://github.com/dosandk/reports.git
+	url = https://github.com/Investigations-eagle/reports.git
 [submodule "packages/insights"]
 	path = packages/insights
 	url = https://github.com/Investigations-eagle/insights.git
