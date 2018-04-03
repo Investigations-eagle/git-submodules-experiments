@@ -1,9 +1,12 @@
 [submodule "packages/reports"]
 	path = packages/reports
 	url = https://github.com/Investigations-eagle/reports.git
+    branch = develop
 [submodule "packages/insights"]
 	path = packages/insights
 	url = https://github.com/Investigations-eagle/insights.git
+	branch = develop
 [submodule "packages/core-app"]
 	path = packages/core-app
 	url = https://github.com/Investigations-eagle/core-app.git
+	branch = develop
