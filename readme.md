@@ -1,4 +1,4 @@
-# Lerna
+# Git submodules + Lerna + ng-pakagr
 
 ## To run `npm install` for all sub-projects use:
 
